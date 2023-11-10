@@ -2,7 +2,6 @@
 
 namespace Kostajh\TodoistStandup\Command;
 
-use Cassandra\Date;
 use DateTime;
 use FabianBeiner\Todoist\TodoistClient;
 use Symfony\Component\Console\Command\Command;

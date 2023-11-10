@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "2a1973ef5eed4d96963d92b3c48b90a4",
+    "content-hash": "94a8ec441fc52580286d5691363c5ed8",
     "packages": [
         {
             "name": "fabian-beiner/todoist-php-api-library",
